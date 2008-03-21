@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2195
+
+Provided under the GPLv3 (http://www.gnu.org/licenses/gpl.txt).
+
+This script provides the needed functionality to easily register insert mode macros for useful Unicode characters as well as initial mapping tables for a mostly math oriented background.
+
+For further information refer to: http://westhoffswelt.de/blog/vim_unicode_macros.html
